@@ -8,7 +8,7 @@ body {
   background: #fff;
 }
 
-img {
+#profile-pcture {
   width: 200px;
   padding: 15px 0;
   margin: 0 auto 0px;
@@ -28,14 +28,8 @@ img {
   color: #829aa8;
 }
 
-
 ol {
   display: table;
   margin:0 auto;
   text-align: left;
 }
-
-
-
-
-/* Add more classes below! */
