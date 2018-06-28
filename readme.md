@@ -4,8 +4,18 @@
 - Download and install a text editor
     - [VS Code](https://code.visualstudio.com/)
     - [Atom](https://atom.io/)
-- download this git repo
 - I also recommend using [chrome](https://www.google.com/chrome/) as a web browser
+
+###### Download the files for this class:
+1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
+2. Click on the button on the right-hand side that says "Download ZIP"
+3. Go to your downloads folder and double click on the .zip file to unzip it
+4. IMPORTANT! Leave all the individual files in the downloaded folder (if you would like to move it out of the downloads folder move the entire folder, not individual items)
+5. From Atom: File > open, select the folder and then click "Open"
+6. From Atom: If the file tree does not appear on the left hand View > Toggle Tree View -- this will show you the entire folder within Atom
+7. *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- `index.html` and `CSS/style.css` are the two files we will using.
+8. The `examples` folder contains an example of a simple web page using HTML and CSS. If you get stuck you might want to refer to the example page.
+
  
 ## What this workshop is
 
@@ -107,6 +117,14 @@ This example targets a class `btn` to change the background color and add paddin
   padding: 10px;
 }
 ```
+This example tagets an ID `profile-picture` to change the width:
+
+```
+#profile-pcture {
+  width: 200px;
+  }
+  
+```
 
 
 Learn more CSS [here](https://www.w3schools.com/css/)
@@ -119,15 +137,29 @@ Remember:
 - Work in pairs!
 
 ## Upcoming Events!
+[Galvanize Web Development Foundations with JavaScript - 7/23 - 8/29](https://www.eventbrite.com/e/galvanize-web-development-foundations-with-javascript-seattle-723-829-tickets-45261516414) - Use Coupon code `learn2code` for 10% off
+
+[Galvanize Seattle Web Development Capstone Showcase (7/19)](https://www.eventbrite.com/e/galvanize-seattle-web-development-capstone-showcase-719-tickets-46775091558?aff=ebdssbdestsearch) See final projects of our graduating class!
 
 ## What is Galvanize?
-A community
+###### We are a community! We focused on helping each other acheive our goals. 
 
-Boot camp
+#### Imersive Bootcamp
+- [Data Science](https://www.galvanize.com/seattle/data-science)
+- [Web Development](https://www.galvanize.com/seattle/web-development)
 
-Co-working space
+#### Part-Time Courses
+- [Data Analytics](https://www.galvanize.com/seattle/data-analytics)
+- [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations)
+- [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals)
+- [Front End Web Development](https://www.galvanize.com/seattle/front-end-web-development)
+- [React Intensive](https://www.galvanize.com/seattle/react-intensive)
 
-Events https://www.galvanize.com/seattle/events
+#### Coworking Space
+[work in our building!](https://www.galvanize.com/entrepreneur)
+
+#### Events 
+We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
 
 ## Questions:
 Please feel free to reach out to me with any questions!
