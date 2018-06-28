@@ -5,17 +5,8 @@
     - VS Code
     - Atom
 - download this git repo
-- I also reccemend using chrome as aweb browser
+- I also recommend using chrome as a web browser
  
-
-## About me:
-Hello I'm Sage Elliott. I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, Fl. 
-
-- Twitter: @sagecodes
-- LinkedIn: 
-- Email: sage.elliott@galvanize.com
-
-
 ## What this course is
 
 A super friendly introduction to HTML and CSS! 
@@ -23,6 +14,14 @@ A super friendly introduction to HTML and CSS!
 - Ask Questions
 - Its ok to get stuck, just ask for help!
 - Please Help others 
+
+## About me:
+Hello I'm Sage Elliott. I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, Fl. 
+
+- Twitter: [@sagecodes]()
+- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
+- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+
 
 ## About you!
 
