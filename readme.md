@@ -5,25 +5,29 @@
     - VS Code
     - Atom
 - download this git repo
-    - 
+- I also reccemend using chrome as aweb browser
+ 
 
-## My Intro + little about Galvanize
-Hello I'm Sage Elliott. 
+## About me:
+Hello I'm Sage Elliott. I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, Fl. 
 
-@sagecodes
-sage.elliott@galvanize.como
+- Twitter: @sagecodes
+- LinkedIn: 
+- Email: sage.elliott@galvanize.com
 
 
 ## What this course is
 
 A super friendly introduction to HTML and CSS! 
+
 - Ask Questions
-- Its ok to get stuck and have problems
+- Its ok to get stuck, just ask for help!
 - Please Help others 
 
 ## About you!
 
 Give a quick Intro!
+
 - Whats your name?
 - Whats your background?
 - Why are you interested in Web Development?
@@ -31,6 +35,7 @@ Give a quick Intro!
 ## What is HTML and CSS?
 
 Two of the main building block of the web!
+
 - HTML (Hyper Text Markup Language)
 - CSS (Cascading Style Sheets)
 
@@ -42,7 +47,7 @@ CSS is similar to skin. It adds style and changes the appearance of the page.
 
 JavaScript is like the Muscle. It can change and move elements around on the page(not covered in this workshop). 
 
-Is there a brain? There are many languages that can used used to access databases and send/receive information. Some common languages: Javascript, Python, Ruby, PHP. 
+Is there a "brain"? Yes! There are many languages that can used to access databases, perform complicated calculations and send/receive information. Some common languages: Javascript, Python, Ruby, PHP. 
 
 
 ## Use HTML!
