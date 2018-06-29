@@ -89,17 +89,24 @@ most HTML tags require an opening and a closing tag. There are a few however tha
 
 ###### IDs, Classes
 IDs and classes are very similar.
-These are used to target specfic elements(You'll see more examples in CSS section).
+These are used to target specific elements(You'll see more examples in CSS section).
 - `<h1 id="profile-header"></h1>`
 - `<h1 class="subject-header"></h1>`
 
-- IDs should only be used once on a page. IDs can also be used to bring the user to a specific part of the page. `yoursite/#profile-picture` will load the page near the profile picture. 
+- IDs should only be used once on a page. IDs can also be used to bring the user to a specific part of the page. `your-site/#profile-picture` will load the page near the profile picture. 
 - Classes can be used multiple times on a page. 
 
 
 See More tags [here](https://www.w3schools.com/tags/ref_byfunc.asp)
 
 Learn more HTML [here](https://www.w3schools.com/Html/)
+
+## Lets Write some HTML!
+- Make a large header with the name of your site using an `<h1>` element
+- add a photo using the `<img>` element (remember `img` doesn't need a closing tag)
+- make a paragraph using the `<p>` element
+- make a smaller page header using the `<h2>` element
+- make an ordered or unordered list using the `<ol>`,``ul``, and `<li>` elements
 
 ## CSS Basics
 
@@ -123,10 +130,10 @@ This example targets a class `btn` to change the background color and add paddin
   padding: 10px;
 }
 ```
-This example tagets an ID `profile-picture` to change the width:
+This example targets an ID `profile-picture` to change the width:
 
 ```
-#profile-pcture {
+#profile-picture {
   width: 200px;
   }
   
@@ -135,12 +142,12 @@ This example tagets an ID `profile-picture` to change the width:
 
 Learn more CSS [here](https://www.w3schools.com/css/)
 
-## Lets Write some Code!
-Remember:
-
-- Coding can be hard - be patient!
-- Ask questions!
-- Work in pairs!
+## Lets Write some CSS!
+- change the width of your image
+- change the background color
+- change the font color
+- style our link
+- align everything center (did everything align center?)
 
 ## Upcoming Events!
 [Galvanize Web Development Foundations with JavaScript - 7/23 - 8/29](https://www.eventbrite.com/e/galvanize-web-development-foundations-with-javascript-seattle-723-829-tickets-45261516414) - Use Coupon code `learn2code` for 10% off
@@ -148,9 +155,9 @@ Remember:
 [Galvanize Seattle Web Development Capstone Showcase (7/19)](https://www.eventbrite.com/e/galvanize-seattle-web-development-capstone-showcase-719-tickets-46775091558?aff=ebdssbdestsearch) See final projects of our graduating class!
 
 ## What is Galvanize?
-###### We are a community! We focused on helping each other acheive our goals. 
+###### We are a community! We focused on helping each other achieve our goals. 
 
-#### Imersive Bootcamp
+#### Immersive Bootcamp
 - [Data Science](https://www.galvanize.com/seattle/data-science)
 - [Web Development](https://www.galvanize.com/seattle/web-development)
 
@@ -161,7 +168,7 @@ Remember:
 - [Front End Web Development](https://www.galvanize.com/seattle/front-end-web-development)
 - [React Intensive](https://www.galvanize.com/seattle/react-intensive)
 
-#### Coworking Space
+#### Co-working Space
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
 #### Events 
