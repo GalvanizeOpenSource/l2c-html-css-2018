@@ -87,8 +87,14 @@ most HTML tags require an opening and a closing tag. There are a few however tha
 - `<br>` creates a break in the content
 - `<input type="">` creates an input field
 
-######IDs, Classes 
+###### IDs, Classes
+IDs and classes are very similar.
+These are used to target specfic elements(You'll see more examples in CSS section).
+- `<h1 id="profile-header"></h1>`
+- `<h1 class="subject-header"></h1>`
 
+- IDs should only be used once on a page. IDs can also be used to bring the user to a specific part of the page. `yoursite/#profile-picture` will load the page near the profile picture. 
+- Classes can be used multiple times on a page. 
 
 
 See More tags [here](https://www.w3schools.com/tags/ref_byfunc.asp)
