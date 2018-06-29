@@ -155,8 +155,7 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 [Galvanize Seattle Web Development Capstone Showcase (7/19)](https://www.eventbrite.com/e/galvanize-seattle-web-development-capstone-showcase-719-tickets-46775091558?aff=ebdssbdestsearch) See final projects of our graduating class!
 
 ## What is Galvanize?
-###### We are a community! We focused on helping each other achieve our goals. 
-
+###### We are a community!
 #### Immersive Bootcamp
 - [Data Science](https://www.galvanize.com/seattle/data-science)
 - [Web Development](https://www.galvanize.com/seattle/web-development)
